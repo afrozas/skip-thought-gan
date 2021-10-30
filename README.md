@@ -14,9 +14,6 @@ all works of an author. Extensive experiments in different embedding settings ar
 The model outperforms baseline text generation networks across several automated evaluation metrics. Human judgement scores also
 demonstrate wide applicability and effectiveness in real life tasks.
 
-## Code
-Code will be made public soon. Queries can be directed to enigmaeth [at] gmail [dot] com, in the meanwhile.
-
 ## Citing
 
 If you find this work helpful, please cite it as:    
